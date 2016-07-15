@@ -1,13 +1,13 @@
 //1. FIZZBUZZ
 // const i = 101;
-// while(i-- > 1)
+// while(i-- > 0)
 // {
 // 	if(!(i%3) && !(i%5)) console.log('FizzBuzz');
 // 	else if(!(i%3)) console.log('Fizz');
 // 	else if(!(i%5)) console.log('Buzz');
 // 	else console.log(i);
 // }
-//2. DISTINCT VALUES (1,3,5,3,7,3,1,1,5)
+//2. DISTINCT VALUES 
 // const arrVal = [1,3,5,3,7,3,1,1,5];
 // console.log(arrUnique(arrVal));
 // function arrUnique(arr){
